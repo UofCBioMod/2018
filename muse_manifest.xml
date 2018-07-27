@@ -1,0 +1,125 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://uofcbiomod.github.io/2018" resolutions="1x" timestamp="1532733250813">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="lab-book.css" crc="3864985316" ref="lab-book"/>
+    <file name="project.css" crc="283702661" ref="project"/>
+    <file name="sponsors.css" crc="437841159" ref="sponsors"/>
+    <file name="index.css" crc="428781607" ref="index"/>
+    <file name="nomq_index.css" crc="236230777" ref="index"/>
+    <file name="team.css" crc="3930300675" ref="team"/>
+    <file name="video.css" crc="210453919" ref="video"/>
+    <file name="home.css" crc="3905148351" ref="home"/>
+  </folder>
+  <folder name="assets">
+    <file name="-mr--rollover-transitioner-pro.mulib" crc="3758756361" seo="true" mt="1532549656000"/>
+    <file name="mouse_cursors_1.0.0.zxp" crc="154874823" seo="true" mt="1532644188000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="home:index:lab-book:team:project:video:sponsors"/>
+    <file name="museutils.js" crc="3803043152" ref="home:index:lab-book:team:project:video:sponsors"/>
+    <file name="whatinput.js" crc="86476730" ref="home:index:lab-book:team:project:video:sponsors"/>
+    <file name="museconfig.js" crc="380897831" ref="home:index:lab-book:team:project:video:sponsors"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="home:index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="home"/>
+    <file name="webpro.js" crc="242022427" ref="home"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="home"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="home"/>
+    <file name="touchswipe.js" crc="4066113679" ref="home"/>
+    <file name="require.js" crc="4157109226" ref="home:index:lab-book:team:project:video:sponsors"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="moose-flannel3.gif" crc="3963280064" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="u229-4.png" crc="58949623" ref="home"/>
+    <file name="fingerprint-png-image.png" crc="4034416368" ref="home">
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="arme2.svg" crc="4154159389" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
+    <file name="arme2_poster_.png" crc="207117261" ref="home"/>
+    <file name="blank.gif" crc="4208392903" ref="home:index:lab-book:team:project:video:sponsors"/>
+    <file name="u1256_states.png" crc="3971420459" ref="home"/>
+    <file name="u1256_states-r.png" crc="99928415" ref="home"/>
+    <file name="u1244_states.png" crc="4075565657" ref="home"/>
+    <file name="u1244_states-r.png" crc="45172208" ref="home"/>
+    <file name="u1250_states.png" crc="3831658674" ref="home"/>
+    <file name="u1250_states-r.png" crc="4255487670" ref="home"/>
+    <file name="u1253_states.png" crc="4079742133" ref="home"/>
+    <file name="u1253_states-r.png" crc="187621933" ref="home"/>
+    <file name="u1402_states.png" crc="253670418" ref="home"/>
+    <file name="u1402_states-r.png" crc="13668442" ref="home"/>
+    <file name="moose-1.gif" crc="3964447213" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u631_states.png" crc="52045159" ref="lab-book"/>
+    <file name="u631_states-r.png" crc="3948105940" ref="lab-book"/>
+    <file name="u633-4.png" crc="4199285273" ref="lab-book"/>
+    <file name="u626_states.png" crc="3979985276" ref="lab-book"/>
+    <file name="u626_states-r.png" crc="3847426480" ref="lab-book"/>
+    <file name="u628_states.png" crc="51050014" ref="lab-book"/>
+    <file name="u628_states-r.png" crc="290713010" ref="lab-book"/>
+    <file name="u630_states.png" crc="4129684758" ref="lab-book"/>
+    <file name="u630_states-r.png" crc="511553942" ref="lab-book"/>
+    <file name="u1481_states.png" crc="146554139" ref="lab-book"/>
+    <file name="u1481_states-r.png" crc="4267882290" ref="lab-book"/>
+    <file name="u660_states.png" crc="52045159" ref="team"/>
+    <file name="u660_states-r.png" crc="3948105940" ref="team"/>
+    <file name="u666_states.png" crc="70548602" ref="team"/>
+    <file name="u666_states-r.png" crc="172363998" ref="team"/>
+    <file name="u659-4.png" crc="68138720" ref="team"/>
+    <file name="u662_states.png" crc="51050014" ref="team"/>
+    <file name="u662_states-r.png" crc="290713010" ref="team"/>
+    <file name="u664_states.png" crc="4129684758" ref="team"/>
+    <file name="u664_states-r.png" crc="511553942" ref="team"/>
+    <file name="u1475_states.png" crc="146554139" ref="team"/>
+    <file name="u1475_states-r.png" crc="4267882290" ref="team"/>
+    <file name="u710_states.png" crc="52045159" ref="project"/>
+    <file name="u710_states-r.png" crc="3948105940" ref="project"/>
+    <file name="u703_states.png" crc="215198280" ref="project"/>
+    <file name="u703_states-r.png" crc="336010794" ref="project"/>
+    <file name="u709_states.png" crc="3979985276" ref="project"/>
+    <file name="u709_states-r.png" crc="3847426480" ref="project"/>
+    <file name="u707-4.png" crc="3829862272" ref="project"/>
+    <file name="u705_states.png" crc="4129684758" ref="project"/>
+    <file name="u705_states-r.png" crc="511553942" ref="project"/>
+    <file name="u1469_states.png" crc="146554139" ref="project"/>
+    <file name="u1469_states-r.png" crc="4267882290" ref="project"/>
+    <file name="u732_states.png" crc="52045159" ref="video"/>
+    <file name="u732_states-r.png" crc="3948105940" ref="video"/>
+    <file name="u736_states.png" crc="456085090" ref="video"/>
+    <file name="u736_states-r.png" crc="407688533" ref="video"/>
+    <file name="u740_states.png" crc="3979985276" ref="video"/>
+    <file name="u740_states-r.png" crc="3847426480" ref="video"/>
+    <file name="u738_states.png" crc="51050014" ref="video"/>
+    <file name="u738_states-r.png" crc="290713010" ref="video"/>
+    <file name="u734-4.png" crc="4191098682" ref="video"/>
+    <file name="u1463_states.png" crc="146554139" ref="video"/>
+    <file name="u1463_states-r.png" crc="4267882290" ref="video"/>
+    <file name="u1439_states.png" crc="52045159" ref="sponsors"/>
+    <file name="u1439_states-r.png" crc="3948105940" ref="sponsors"/>
+    <file name="u1441_states.png" crc="456085090" ref="sponsors"/>
+    <file name="u1441_states-r.png" crc="407688533" ref="sponsors"/>
+    <file name="u1434_states.png" crc="3979985276" ref="sponsors"/>
+    <file name="u1434_states-r.png" crc="3847426480" ref="sponsors"/>
+    <file name="u1436_states.png" crc="51050014" ref="sponsors"/>
+    <file name="u1436_states-r.png" crc="290713010" ref="sponsors"/>
+    <file name="u1457_states.png" crc="371850071" ref="sponsors"/>
+    <file name="u1457_states-r.png" crc="3835478492" ref="sponsors"/>
+    <file name="u1438-4.png" crc="3943780012" ref="sponsors"/>
+  </folder>
+  <file name="home.html" crc="447739466" seo="true" mt="1532733246583" redirect="true"/>
+  <file name="index.html" crc="438160603" seo="true" mt="1532732884555" redirect="true"/>
+  <file name="lab-book.html" crc="355498738" seo="true" mt="1532733247665" redirect="true"/>
+  <file name="team.html" crc="4100367210" seo="true" mt="1532733248331" redirect="true"/>
+  <file name="project.html" crc="4089999275" seo="true" mt="1532733249003" redirect="true"/>
+  <file name="video.html" crc="408127682" seo="true" mt="1532733249777" redirect="true"/>
+  <file name="sponsors.html" crc="65270589" seo="true" mt="1532733250586" redirect="true"/>
+</manifest>
